@@ -3,6 +3,6 @@
 
 *Give Money:* **bc1qhd703salwg8r08m2v92sh4rp5qkkw4cctwefvz**
 
-Version History:
-4-13-22 / Original
-10-24-22 / Cleaned up Profile
+*Version History:*
+**4-13-22 / Original**,
+**10-24-22 / Cleaned up Profile**
